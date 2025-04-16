@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <p><small>Best View in <a href="https://github.com/settings/appearance">Dark Mode</a> (Recommended)</small></p><br/>
 
@@ -640,3 +641,6 @@ If you appreciate this repository and want to show your support, you can do so t
 | **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/Hunterdii)                                          |
 
 **Thank you for your support! Every bit helps keep this repository going.** 🌈✨
+=======
+# NxtVerseIQ
+>>>>>>> 8764551cd42e436087b046ccdf18e0080f63d340
